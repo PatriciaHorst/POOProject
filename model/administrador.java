@@ -1,3 +1,4 @@
+package model;
 public class administrador extends usuario {
 
     private String nivelAcesso;

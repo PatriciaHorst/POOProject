@@ -1,3 +1,4 @@
+package model;
 public abstract class medico extends usuario {
 
     private String crm;

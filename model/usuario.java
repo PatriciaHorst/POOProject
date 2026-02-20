@@ -1,4 +1,4 @@
-package Atividade1lucas;
+package model;
 
 public abstract class usuario {
 
@@ -47,5 +47,5 @@ public abstract class usuario {
     }
 
     public abstract void exibirInfo();
-    
+
 }
