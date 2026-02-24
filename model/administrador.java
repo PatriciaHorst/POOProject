@@ -19,7 +19,7 @@ public class administrador extends usuario {
     @Override
 
     public void exibirInfo(){
-        System.out.println("Nome administrador: "+nome+"\nCpf : "+cpf+"\nEmail : "+email+"\n);
+        System.out.println("Nome administrador: "+nome+"\nCpf : "+cpf+"\nEmail : "+email+"\n");
     }
       
 }
